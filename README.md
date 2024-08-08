@@ -17,7 +17,8 @@ _Script_ ini bersifat _open-source_. Anda dapat memodifikasi, menambah, ataupun 
 Kontribusi pada _repository_ ini hanya terbatas pada MikroTik Script dan Dokumentasi saja. Anda dapat berkontribusi dengan cara _Fork repository ini_, membuat _branch_ baru, lakukan perubahan, dan lakukan _Pull Request_ ke _repository_ ini. Deskripsikan apa saja yang Anda tambahkan dan apa yang Anda ubah di dalam _repository_ ini. Jangan lupa untuk menuliskan script bantuan di ```tg_cmd_help``` untuk membantu apabila pengguna script ini lupa dengan perintah yang harus ia tuliskan..
 
 # Riwayat Versi
-####fix issue with tg_cmd_dhcp when put '/dhcp_lease on ROS 7
+####  fix issue with tg_cmd_dhcp when put '/dhcp_lease on ROS 7   #####
+
 #### 1.3.1 (27 Oktober 2020)
 - menambahkan perintah ``/monitoring`` yang berfungsi untuk mengamati transfer rate dan received rate dari interface, juga bisa untuk mengamati penggunaan CPU serta RAM
 - menambah perintah ``/stop`` untuk menghentikan proses monitoring yang sedang berjalan di telegram
